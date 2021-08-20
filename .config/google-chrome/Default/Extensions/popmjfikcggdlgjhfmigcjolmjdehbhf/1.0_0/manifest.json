@@ -1,0 +1,34 @@
+{
+   "description": "",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjxXxOmQyIj+I3Tvlfnk61Lsd+lMMzzi5m6iD0t31mmKBPyh45AihJ2dnlUTvWHWIbhB048DupPRG4kjayjIhycRSIbcoRR/qgXxqUKCezEAWiUwXW8CFaFcNjer+KhVXV/0konFDgD47Wwd9MaOO7COQCIZuu9amhutZx7gYaG9X/7/XAszQa3XrRNbfRAlpdPSWnM4Q9OnWToO+VbVHxyIFeEk0WCD9LQ7DXuhciRZN3t9Cdov63mZRbG2qHjVVn4DhGw3WQEfnpaUFsRBRsWodfdShtLoKb9GcF8UXVCh800opoGNUR+n3sHZJyhkg9wqi+7Q3IjO0Mer1f9SGxQIDAQAB",
+   "manifest_version": 2,
+   "name": "CyberPunk 2077 Night City",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 202, 94, 250 ],
+         "button_background": [ 18, 34, 50, 1 ],
+         "frame": [ 18, 34, 50 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_link": [ 202, 94, 250 ],
+         "ntp_text": [ 202, 94, 250 ],
+         "tab_background_text": [ 202, 94, 250 ],
+         "tab_text": [ 202, 94, 250 ],
+         "toolbar": [ 18, 34, 50 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0.67, 1, 0.65 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

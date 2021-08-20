@@ -1,0 +1,7 @@
+2021/08/19-16:41:09.431 4f68 Reusing MANIFEST /home/alan/.config/google-chrome/Default/IndexedDB/https_www.cyberforum.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/19-16:41:09.431 4f68 Recovering log #4
+2021/08/19-16:41:09.431 4f68 Reusing old log /home/alan/.config/google-chrome/Default/IndexedDB/https_www.cyberforum.ru_0.indexeddb.leveldb/000004.log 
+2021/08/19-16:41:10.887 4f69 Level-0 table #8: started
+2021/08/19-16:41:10.893 4f69 Level-0 table #8: 555 bytes OK
+2021/08/19-16:41:10.904 4f69 Delete type=0 #4
+2021/08/19-16:41:10.904 4f69 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

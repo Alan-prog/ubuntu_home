@@ -1,0 +1,18 @@
+2021/08/20-17:14:54.551 5 Reusing MANIFEST /home/alan/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2021/08/20-17:14:54.552 5 Recovering log #44
+2021/08/20-17:14:54.552 5 Reusing old log /home/alan/.config/google-chrome/Default/Session Storage/000044.log 
+2021/08/20-17:17:48.637 8 Level-0 table #48: started
+2021/08/20-17:17:48.644 8 Level-0 table #48: 21105 bytes OK
+2021/08/20-17:17:48.653 8 Delete type=0 #44
+2021/08/20-17:40:59.485 14 Level-0 table #50: started
+2021/08/20-17:40:59.500 14 Level-0 table #50: 16462 bytes OK
+2021/08/20-17:40:59.512 14 Delete type=0 #47
+2021/08/20-17:40:59.513 14 Compacting 4@0 + 1@1 files
+2021/08/20-17:40:59.522 14 Generated table #51@0: 1522 keys, 44820 bytes
+2021/08/20-17:40:59.522 14 Compacted 4@0 + 1@1 files => 44820 bytes
+2021/08/20-17:40:59.534 14 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/08/20-17:40:59.534 14 Delete type=2 #48
+2021/08/20-17:40:59.534 14 Delete type=2 #45
+2021/08/20-17:40:59.534 14 Delete type=2 #42
+2021/08/20-17:40:59.534 14 Delete type=2 #40
+2021/08/20-17:40:59.534 14 Delete type=2 #50

@@ -1,0 +1,6 @@
+2021/08/19-16:15:58.495 35ea Creating DB /home/alan/.config/google-chrome/Default/IndexedDB/https_www.aviasales.ru_0.indexeddb.leveldb since it was missing.
+2021/08/19-16:15:58.522 35ea Reusing MANIFEST /home/alan/.config/google-chrome/Default/IndexedDB/https_www.aviasales.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/19-16:17:31.987 3846 Level-0 table #5: started
+2021/08/19-16:17:31.994 3846 Level-0 table #5: 835 bytes OK
+2021/08/19-16:17:32.003 3846 Delete type=0 #3
+2021/08/19-16:17:32.003 3846 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

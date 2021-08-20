@@ -1,0 +1,84 @@
+{
+   "checksum": "fee7df8f03e4a1324d198227597f43f8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13273850188077619",
+               "guid": "b0c99b11-de6d-489f-bf26-d0132394ff81",
+               "id": "8",
+               "name": "мосуслуги",
+               "type": "url",
+               "url": "https://www.mos.ru/uslugi/"
+            }, {
+               "date_added": "13273850230567288",
+               "guid": "f5374ac3-4340-4729-a61a-a5c19cde44ab",
+               "id": "9",
+               "name": "госуслуги",
+               "type": "url",
+               "url": "https://www.gosuslugi.ru/"
+            }, {
+               "date_added": "13273850269364641",
+               "guid": "b75dd9d5-85da-4f89-a68c-088b43e77f42",
+               "id": "10",
+               "name": "фнс",
+               "type": "url",
+               "url": "https://lkfl2.nalog.ru/lkfl/"
+            }, {
+               "date_added": "13273850304745631",
+               "guid": "0baacbe8-69f4-4411-a257-b8b0fad98c4d",
+               "id": "11",
+               "name": "mail",
+               "type": "url",
+               "url": "https://mail.ru/"
+            } ],
+            "date_added": "13273850096852308",
+            "date_modified": "13273853705459895",
+            "guid": "4e03d7a6-5cc4-4a01-9562-b13dccab0fdb",
+            "id": "5",
+            "name": "social_trash",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13273853705459895",
+               "guid": "8995689e-583d-4545-8128-20269173ab3f",
+               "id": "13",
+               "name": "linkedin",
+               "type": "url",
+               "url": "https://www.linkedin.com/feed/"
+            } ],
+            "date_added": "13273850173110082",
+            "date_modified": "13273853718725351",
+            "guid": "d08a51f3-60e7-4b91-a77c-479274f2be68",
+            "id": "7",
+            "name": "social_programming",
+            "type": "folder"
+         } ],
+         "date_added": "13273373166278213",
+         "date_modified": "13273850188077619",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13273373166278214",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13273373166278216",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

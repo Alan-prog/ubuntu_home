@@ -1,0 +1,6 @@
+2021/08/20-20:17:12.534 3 Reusing MANIFEST /home/alan/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/08/20-20:17:12.534 3 Recovering log #402
+2021/08/20-20:17:12.535 3 Reusing old log /home/alan/.config/google-chrome/Default/Local Storage/leveldb/000402.log 
+2021/08/20-20:21:19.751 4 Level-0 table #406: started
+2021/08/20-20:21:19.766 4 Level-0 table #406: 88342 bytes OK
+2021/08/20-20:21:19.776 4 Delete type=0 #402
